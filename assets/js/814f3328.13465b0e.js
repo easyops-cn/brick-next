@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunknext_docs=self.webpackChunknext_docs||[]).push([[2535],{45641:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"\u7f16\u5199\u826f\u597d\u7684\u5355\u5143\u6d4b\u8bd5","permalink":"/blog/writing-good-unit-tests"}]}')}}]);
