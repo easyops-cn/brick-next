@@ -1,0 +1,25 @@
+{
+  "id": "bricks/icons",
+  "bricks": [
+    "icons.get-easyops-icons",
+    "icons.get-fa-icons",
+    "icons.get-antd-icons",
+    "icons.search-icons",
+    "icons.get-libs",
+    "icons.antd-icon",
+    "icons.easyops-icon",
+    "icons.fa-icon",
+    "icons.general-icon"
+  ],
+  "elements": [
+    "eo-antd-icon",
+    "eo-easyops-icon",
+    "eo-fa-icon",
+    "eo-svg-icon",
+    "eo-img-icon",
+    "eo-icon"
+  ],
+  "processors": [],
+  "dependencies": {},
+  "filePath": "bricks/icons/dist/index.b4163568.js"
+}
