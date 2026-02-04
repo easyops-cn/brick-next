@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunknext_docs=globalThis.webpackChunknext_docs||[]).push([["106"],{4200:function(t){t.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"\u7F16\u5199\u826F\u597D\u7684\u5355\u5143\u6D4B\u8BD5","permalink":"/zh/blog/writing-good-unit-tests","unlisted":false,"date":"2019-06-15T00:00:00.000Z"}]}')}}]);

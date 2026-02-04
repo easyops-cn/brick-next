@@ -1,0 +1,2 @@
+"use strict";(globalThis.webpackChunk_next_bricks_basic=globalThis.webpackChunk_next_bricks_basic||[]).push([[4451],{7691:(e,i,s)=>{s.r(i);var t=s(2716);(0,s(3324).initializeI18n)(),(0,t.getRuntime)(),customElements.define("basic.v3-widget-mate",class extends HTMLElement{})}}]);
+//# sourceMappingURL=v3-widget-mate.5b986653.js.map

@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunknext_docs=globalThis.webpackChunknext_docs||[]).push([["9299"],{42145:function(o){o.exports=JSON.parse('{"metadata":{"permalink":"/zh/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
